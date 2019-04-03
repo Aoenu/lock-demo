@@ -18,6 +18,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * This is Description
+ * 采用注解的方式，redis锁 分布式
  *
  * @author baoben.wu@hand-china.com
  * @date 2019/04/03

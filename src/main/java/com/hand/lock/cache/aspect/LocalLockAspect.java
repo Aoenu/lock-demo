@@ -14,7 +14,7 @@ import java.lang.reflect.Method;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 本章先基于 本地缓存来做，后续讲解 redis 方案
+ * 这种锁采用注解的方式，采用的本地缓存的方式，不是分布式锁
  *
  * @author baoben.wu@hand-china.com
  * @date 2019/04/03
